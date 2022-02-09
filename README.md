@@ -1,1 +1,1 @@
-# mern-try
+practicing MERN Stack
